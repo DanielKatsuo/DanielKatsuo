@@ -1,4 +1,4 @@
-## Olá, sou Daniel Jesus Silva!
+## Olá, sou o Daniel Jesus Silva!
 
 Sou um Desenvolvedor de Software com experiência em desenvolvimento full-stack. Sou apaixonado por criar soluções eficientes e inovadoras que agreguem valor ao usuário final.
 
