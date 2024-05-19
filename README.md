@@ -1,15 +1,18 @@
-### Hi there 👋
+## Olá, sou Daniel Jesus Silva!
+
+Sou um Desenvolvedor de Software com experiência em desenvolvimento full-stack. Sou apaixonado por criar soluções eficientes e inovadoras que agreguem valor ao usuário final.
+
+## Resumo Profissional
+
+- **Estagiário** na **Segeer Engenharia e Sistemas**: Trabalhei em uma variedade de projetos web, contribuindo para a construção de aplicações escaláveis e seguras para ERP.
+- **Habilidades:** JavaScript, C#, ASP.NET, .NET Framework, Windows Services, HTML/CSS, SQL, jQuery, Bootstrap
 
 
-**DanielKatsuo/DanielKatsuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Educação e Certificações
 
-Here are some ideas to get you started:
+- **Bacharelado em Análise e Desenvolvimento de Sistemas** - UNICSUL (Em andamento
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Contato
+
+- **Email:** danielstudy490@gmail.com
+- **LinkedIn:** [linkedin.com/in/danieljesussilva490](https://www.linkedin.com/in/danieljesussilva490/)
