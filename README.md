@@ -8,11 +8,12 @@ Sou um Desenvolvedor de Software com experiência em desenvolvimento full-stack.
 - **Habilidades:** JavaScript, C#, ASP.NET, .NET Framework, API Rest, Windows Services, HTML/CSS, SQL, jQuery, Bootstrap
 
 
-## Educação e Certificações
-
-- **Bacharelado em Análise e Desenvolvimento de Sistemas** - UNICSUL (Em andamento
+## Educação
+- **Bacharelado em Análise e Desenvolvimento de Sistemas** - UNICSUL (Em andamento)
 
 ## Contato
-
 - **Email:** danielstudy490@gmail.com
 - **LinkedIn:** [linkedin.com/in/danieljesussilva490](https://www.linkedin.com/in/danieljesussilva490/)
+
+## Certificações 
+- **Introdução as APIs com C#: [clique aqui ↓](https://www.dio.me/certificate/WOOFQOB2/share)
