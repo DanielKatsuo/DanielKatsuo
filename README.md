@@ -16,4 +16,5 @@ Sou um Desenvolvedor de Software com experiência em desenvolvimento full-stack.
 - **LinkedIn:** [linkedin.com/in/danieljesussilva490](https://www.linkedin.com/in/danieljesussilva490/)
 
 ## 🥇 Certificações 
-- **Introdução as APIs com C#: [clique aqui ↓](https://www.dio.me/certificate/WOOFQOB2/share)
+- **Introdução as APIs com C#:** [clique aqui](https://www.dio.me/certificate/WOOFQOB2/share)
+- **Versionamento de Código com Git e Github:** [clique aqui](https://www.dio.me/certificate/CE970606/share)
