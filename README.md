@@ -9,7 +9,7 @@ Sou um Desenvolvedor de Software com experiência em desenvolvimento full-stack.
 
 
 ## 📖 Educação
-- **Bacharelado em Análise e Desenvolvimento de Sistemas** - UNICSUL (Em andamento)
+- **Bacharelado em Análise e Desenvolvimento de Sistemas** - UNICSUL
 
 ## ☎️ Contato
 - **Email:** danielstudy490@gmail.com
