@@ -4,9 +4,10 @@ Sou um Desenvolvedor de Software com experiência em desenvolvimento full-stack.
 
 ## 🚀 Resumo Profissional
 
-- **Estagiário** na **Segeer Engenharia e Sistemas**: Trabalhei em uma variedade de projetos web, contribuindo para a construção de aplicações escaláveis e seguras para ERP.
-- **Habilidades:** JavaScript, C#, ASP.NET, .NET Framework, API Rest, Windows Services, Worker Services, HTML/CSS, SQL, jQuery, Bootstrap
-
+- **Desenvolvedor Full-Stack** na **Segeer Engenharia e Sistemas**: Trabalhei em uma variedade de projetos web, contribuindo para a construção de aplicações escaláveis e seguras para ERP.
+  
+##  Skills
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,javascript,jquery,docker,bootstrap,html,css,git,github)](https://skillicons.dev)<br><br>
 
 ## 📖 Educação
 - **Bacharelado em Análise e Desenvolvimento de Sistemas** - UNICSUL
