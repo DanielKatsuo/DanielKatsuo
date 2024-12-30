@@ -13,7 +13,7 @@ Sou um Desenvolvedor de Software com experiência em desenvolvimento full-stack.
 - **Bacharelado em Análise e Desenvolvimento de Sistemas** - UNICSUL
 
 ## ☎️ Contato
-- **Email:** danielstudy490@gmail.com
+- **Email:** danieljsilva490@outlook.com.br
 - **LinkedIn:** [linkedin.com/in/danieljesussilva490](https://www.linkedin.com/in/danieljesussilva490/)
 
 ## 🥇 Certificações 
