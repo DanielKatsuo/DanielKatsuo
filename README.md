@@ -1,6 +1,6 @@
 ## Olá, sou o Daniel de Jesus Silva!
 
-Sou um Desenvolvedor de Software com experiência em desenvolvimento full-stack. Sou apaixonado por criar soluções eficientes e inovadoras que agreguem valor ao usuário final.
+Sou um Desenvolvedor de Software com **2 anos** experiência em desenvolvimento full-stack. Sou apaixonado por criar soluções eficientes e inovadoras que agreguem valor ao usuário final.
 
 ## 🚀 Resumo Profissional
 
