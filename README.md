@@ -4,7 +4,7 @@ Sou um Desenvolvedor de Software com experiência em desenvolvimento full-stack.
 
 ## 🚀 Resumo Profissional
 
-- **Desenvolvedor Full-Stack** na **Segeer Engenharia e Sistemas**: Trabalhei em uma variedade de projetos web, contribuindo para a construção de aplicações escaláveis e seguras para ERP.
+- **Desenvolvedor Full-Stack** na **Segeer Engenharia e Sistemas**: Trabalhei em uma variedade de aplicações web, apis e automações de serviços, contribuindo para a construção de aplicações escaláveis e seguras para ERP.
   
 ##  Skills
 [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,javascript,jquery,docker,bootstrap,html,css,git,github)](https://skillicons.dev)<br><br>
